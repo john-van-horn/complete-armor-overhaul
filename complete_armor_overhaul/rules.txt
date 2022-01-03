@@ -1,0 +1,7 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = Complete Armor Overhaul
+path = "The Legend of Zelda: Breath of the Wild/Game Mods/COMPLETE ARMOR OVERHAUL/Complete Armor Overhaul"
+description = Changes almost every piece of armor in the game. By: FireFlyer24 (Thanks to HylianZ, Bird Of Light, WiseHorror and Charade for all the help) Any support is appreciated!
+version = 4
+fsPriority = 98
